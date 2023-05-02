@@ -8,7 +8,7 @@ This dataset describes the number of daily female births in California in 1959. 
 
 Below is a plot of the entire dataset.
 
-<img src="img/Daily-Female-Births-Dataset.png" width="400"/>
+<img src="img/Daily-Female-Births-Dataset.png" width="700"/>
 
 Dataset has two columns: Date and Births.
 
@@ -37,10 +37,10 @@ We will use optimizer Adam and loss function MSE.
 
 We will train our model on 200 epochs and store train and validation losses.
 
-<img src="img/losses.png" width="400"/>
+<img src="img/losses.png" width="700"/>
 
 # Prediction
 
 And then we will try to make a prediction.
 
-<img src="img/prediction.png" width="400"/>
+<img src="img/prediction.png" width="800"/>
