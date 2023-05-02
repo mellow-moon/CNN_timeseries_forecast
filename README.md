@@ -27,11 +27,11 @@ To make this task a supervised learning task we need to split our data to sequen
 
 Inside our model we will have one 1D convolution layer with 3 input channels and 64 output channels. Then we will have activation function ReLU and 2 fully connected layers. Output is gonna be one number (prediction).
 
-<img src="img/cnn.png" width="400"/>
+<img src="img/cnn.png" width="600"/>
 
 We will use optimizer Adam and loss function MSE.
 
-<img src="img/optimizer_loss_function.png" width="400"/>
+<img src="img/optimizer_loss_function.png" width="600"/>
 
 # Training
 
