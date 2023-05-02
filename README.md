@@ -37,10 +37,12 @@ We will use optimizer Adam and loss function MSE.
 
 We will train our model on 200 epochs and store train and validation losses.
 
+Below is a plot of train and validation losses.
+
 <img src="img/losses.png" width="700"/>
 
 # Prediction
 
 And then we will try to make a prediction.
 
-<img src="img/prediction.png" width="800"/>
+<img src="img/prediction.png" width="1000"/>
