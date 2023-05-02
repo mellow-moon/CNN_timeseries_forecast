@@ -41,8 +41,12 @@ Below is a plot of train and validation losses.
 
 <img src="img/losses.png" width="700"/>
 
+Losses are about 64 on train and validation.
+
 # Prediction
 
 And then we will try to make a prediction.
 
 <img src="img/prediction.png" width="1000"/>
+
+As we can see model captured common patterns in the data but still not perfect.
